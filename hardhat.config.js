@@ -12,15 +12,11 @@ module.exports = {
     },
     sepolia: {
       url: "https://eth-sepolia.g.alchemy.com/v2/eW-tnP4AAByG93fex0dqqcE2i2u008GP",
-      accounts: [
-        "62c98fabbb5a864c06a4a2f8e58e8ff38c9b2bee3695644a87c0f1d35c86f7a8",
-      ],
+      accounts: [""],
     },
     optimism: {
       url: "https://opt-sepolia.g.alchemy.com/v2/pkssOwWc3Bjxv6BibpPE6PLXTavd9OXF",
-      accounts: [
-        "62c98fabbb5a864c06a4a2f8e58e8ff38c9b2bee3695644a87c0f1d35c86f7a8",
-      ],
+      accounts: [""],
     },
   },
 };
